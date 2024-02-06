@@ -1,0 +1,31 @@
+#top {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(107, 107, 107);
+    position: fixed;
+    top: 0px;
+}
+
+#bottom {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+#left-side {
+    height: 100%;
+    width: 100px;
+    background-color: lightgray;
+    position: fixed;
+    left: 0px;
+}
+
+#right-side {
+    height: 100%;
+    width: 100px;
+    background-color: lightgray;
+    position: fixed;
+    right: 0px;
+}
